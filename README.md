@@ -1,9 +1,12 @@
 # Netflix-Shows-Movies-using-SQL
 
 
-- **Business Problem:** Netflix wants to gather useful insights on their shows and movies for their subscribers through their datasets. The issue is, they are working with too much data (approximately 82k rows of data combined) and are unsure how to effectively analyze and extract meaningful insights from it. They need a robust and scalable data analytics solution to handle the vast amount of data and uncover valuable patterns and trends.
+- **Business Problem:**
+Netflix aims to derive meaningful insights from their extensive collection of movies and TV shows to better serve their subscribers. However, with a large dataset comprising around 82,000 rows, they are facing challenges in efficiently analyzing the data and extracting actionable trends and patterns. They require a scalable and effective data analytics solution to manage this volume and complexity.
 
-- **How I Plan On Solving the Problem:** In helping Netflix gather valuable insights from their extensive movies and shows dataset, I will be utilizing SQL and a data visualization tool like Tableau to extract relevant information, and conduct insightful analyses. By leveraging SQL's functions, I can uncover key metrics such as viewer ratings, popularity trends, genre preferences, and viewership patterns. Once the data has been extracted and prepared, I will leverage Tableau to present the findings. This will allow for interactive exploration of the data, enabling stakeholders at Netflix to gain actionable insights through visually appealing charts, graphs, and interactive visualizations. I plan on creating a dynamic dashboard in Tableau that enables users to delve into specific movie genres, viewer demographics, or geographical regions.
+- **How I Plan On Solving the Problem:** 
+To help Netflix uncover valuable insights from their vast dataset, I plan to utilize SQL for data extraction and a data visualization tool like Tableau for analysis and presentation. Using SQL, I will identify key metrics such as viewer ratings, genre popularity, content trends, and audience viewing behaviors. Once the data is cleaned and prepared, I will use Tableau to develop a visually engaging, interactive dashboard. This dashboard will enable stakeholders to explore insights based on specific genres, user demographics, and geographic locations—making it easier for Netflix to make data-driven decisions.
+
 
 ## Questions I Wanted To Answer From the Dataset:
 
